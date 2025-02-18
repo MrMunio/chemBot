@@ -2,7 +2,7 @@
 
 ![Chembot](artifacts/chembot_screenshot.png)
 
-Chembot is an AI-powered agentic AI chatbot designed to assist drug researchers with complex chemical and molecular queries. It leverages **Streamlit**, **LangChain**, and **RDKit** frameworks to provide precise and insightful responses about molecular structures, properties, and drug-likeness.
+Chembot is an AI-powered agentic AI chatbot designed to assist drug researchers with complex chemical and molecular queries. It leverages GPT-4o-mini for language inferencing, LangGraph for agentic framework, and RDKit frameworks to provide precise and insightful responses about molecular structures, properties, and drug-likeness.
 
 ## Features
 
